@@ -1,0 +1,59 @@
+{
+	"version": 1,
+	"settings": {
+		"color": {
+			"custom": false,
+			"customDuotone": false,
+			"customGradient": false,
+			"duotone": [],
+			"gradients": [],
+			"link": false,
+			"palette": [
+				{
+					"name": "Black",
+					"slug": "black",
+					"color": "#000000"
+				},
+				{
+					"name": "White",
+					"slug": "white",
+					"color": "#ffffff"
+				}
+			]
+		},
+		"custom": {
+			"line-height": {
+				"body": 1.5,
+				"heading": 1.3
+			}
+		},
+		"layout": {
+			"contentSize": "800px",
+			"wideSize": "100%"
+		},
+		"spacing": {
+			"customMargin": false,
+			"customPadding": false,
+			"units": [ "rem" ]
+		},
+		"typography": {
+			"customFontSize": false,
+			"customLineHeight": false,
+			"dropCap": false,
+			"fontSizes": []
+		},
+		"blocks": {
+			"core/paragraph": {
+				"color": {
+					"palette": [
+						{
+							"name": "Grey",
+							"slug": "grey",
+							"color": "#777777"
+						}
+					]
+				}
+			}
+		}
+	}
+}
